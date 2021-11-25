@@ -1,0 +1,62 @@
+* {
+  text-align: center;
+}
+header {
+  font-family: "Sacramento", cursive;
+  text-align: center;
+}
+.Im {
+  position: absolute;
+  background-color: #66bfbf;
+}
+.har {
+  height: 250px;
+}
+#Maya {
+  border-radius: 50%;
+  height: 190px;
+}
+#programmer {
+  text-decoration: underline;
+}
+footer {
+  background-color: #66bfbf;
+}
+hr footer {
+  color: #eaf6f6;
+}
+p {
+  color: #40514e;
+}
+h1 {
+  font-family: "Sacramento", cursive;
+}
+h1,
+h2 {
+  color: #66bfbf;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Montserrat;
+}
+h3 {
+  color: #11999e;
+}
+/*    button =  #11cdd4 => hover = #30e3cb
+    button text = white
+*/
+.TopCloud {
+  right: 50px;
+  top: 40px;
+  position: absolute;
+  height: 30px;
+  text-align: right;
+}
+.BottomCloud {
+  left: 50px;
+  bottom: 300px;
+  height: 30px;
+}
